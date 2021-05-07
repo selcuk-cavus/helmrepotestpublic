@@ -3,9 +3,9 @@ entries:
   testc1v1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-07T07:00:25.365992347Z"
+    created: "2021-05-07T07:12:43.792125021Z"
     description: A Helm chart for Kubernetes
-    digest: e9e792d8795b7affebdc076d246c6c991c83059256f68d44982f0b5add3e29d3
+    digest: 6b58e380fa22d55eb45c2f30bfa35a8260f085b59ef52e15580a5dcb647c204d
     name: testc1v1
     type: application
     urls:
@@ -24,9 +24,9 @@ entries:
   testc1v2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-07T07:00:25.366788651Z"
+    created: "2021-05-07T07:12:43.792583829Z"
     description: A Helm chart for Kubernetes
-    digest: 093624afb834234b35418de59667c7a28a61bc957ec74e3531bef020d6128ec0
+    digest: f5da4b2c2f38836259bd4b313414edf15c03560a25f3edb853e4b6d93268ccb2
     name: testc1v2
     type: application
     urls:
@@ -35,12 +35,23 @@ entries:
   testc1v3:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-07T07:00:25.367643956Z"
+    created: "2021-05-07T07:12:43.793032636Z"
     description: A Helm chart for Kubernetes
-    digest: 2e813b092b203ebb527331f4243ba832d7de4627fa4deaea97fb18ba05768450
+    digest: 723a320561834687b352f376c2d1f479a2eb5c2dece8af5749a47884e279e0c4
     name: testc1v3
     type: application
     urls:
     - https://selcuk-cavus.github.io/helmrepotestpublic/testc1v3-1.1.0.tgz
     version: 1.1.0
-generated: "2021-05-07T07:00:25.365072542Z"
+  testc2v1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-07T07:12:43.793471743Z"
+    description: A Helm chart for Kubernetes
+    digest: 7c181f8a321858129d58b26aa0b7f32bc43e02782c75038431e57898078c5771
+    name: testc2v1
+    type: application
+    urls:
+    - https://selcuk-cavus.github.io/helmrepotestpublic/testc2v1-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-07T07:12:43.79141931Z"
